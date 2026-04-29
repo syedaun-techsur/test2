@@ -41,7 +41,7 @@
 
 ---
 
-**Status**: executing
+**Status**: awaiting decision
 ### Phase 2: Frontend UI
 
 **Goal:** Users can interact with tasks through a React interface
