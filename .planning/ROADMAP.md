@@ -34,7 +34,10 @@
 4. User can delete a task via DELETE /api/tasks/:id endpoint
 5. API persists tasks so they persist across server restarts
 
-**Plans:** TBD
+**Plans:** 1 plan
+
+**Plan list:**
+- [ ] 01-01-PLAN.md — Express backend with CRUD API and JSON file persistence
 
 ---
 
@@ -64,7 +67,7 @@
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Backend API | 0/1 | Not started | - |
+| 1. Backend API | 1/1 | Ready to execute | - |
 | 2. Frontend UI | 0/1 | Not started | - |
 
 ---
