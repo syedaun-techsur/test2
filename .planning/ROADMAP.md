@@ -9,7 +9,7 @@
 
 ## Phases
 
-- [ ] **Phase 1: Backend API** - Express server with CRUD endpoints for task management
+- [x] **Phase 1: Backend API** - Express server with CRUD endpoints for task management
 - [ ] **Phase 2: Frontend UI** - React interface with create, complete, and delete functionality
 
 ---
@@ -37,11 +37,12 @@
 **Plans:** 1 plan
 
 **Plan list:**
-- [ ] 01-01-PLAN.md — Express backend with CRUD API and JSON file persistence
+- [x] 01-01-PLAN.md — Express backend with CRUD API and JSON file persistence
 
 ---
 
-**Status**: In Progress
+**Status**: Complete — 2026-05-01
+
 ### Phase 2: Frontend UI
 
 **Goal:** Users can interact with tasks through a React interface
@@ -68,7 +69,7 @@
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Backend API | 1/1 | Ready to execute | - |
+| 1. Backend API | 1/1 | ✓ Complete | 2026-05-01 |
 | 2. Frontend UI | 0/1 | Not started | - |
 
 ---
