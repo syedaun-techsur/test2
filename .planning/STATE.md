@@ -12,10 +12,10 @@
 
 | Field | Value |
 |-------|-------|
-| **Phase** | Roadmap complete |
-| **Plan** | None active |
-| **Status** | Ready for Phase 1 planning |
-| **Progress** | ████████░░ 0% |
+| **Phase** | 01-backend-api |
+| **Plan** | 01-01 complete |
+| **Status** | Phase 1 Plan 1 complete - ready for Phase 2 planning |
+| **Progress** | ████████░░ 50% |
 
 ---
 
@@ -34,6 +34,9 @@
 
 ### Key Decisions
 - React + Express stack (user-specified)
+- Response envelope: `{ success, data }` / `{ success: false, error: { code, message } }` for all API responses
+- Atomic file writes: write to `.tmp` then rename to prevent JSON corruption
+- PATCH endpoint toggles completion (no request body needed)
 
 ### Project Context
 - Simple todo app with create, complete, delete functionality
@@ -41,7 +44,8 @@
 - Single-user, local storage (no real-time sync, no auth, no categories)
 
 ### Todos
-- [ ] Plan Phase 1 (Backend API)
+- [x] Plan Phase 1 (Backend API)
+- [x] Execute Phase 1 Plan 01 (Backend Express API)
 - [ ] Plan Phase 2 (Frontend UI)
 
 ### Blockers
@@ -51,6 +55,6 @@ None - roadmap is ready
 
 ## Session Continuity
 
-**Last update:** 2026-04-29
-**Roadmap created:** 2 phases derived from 3 requirements
-**Next step:** `/pivota_spec-plan-phase 1`
+**Last update:** 2026-05-01
+**Stopped at:** Completed 01-01-PLAN.md
+**Next step:** `/pivota_spec-plan-phase 2` or `/pivota_spec-verify-work`
