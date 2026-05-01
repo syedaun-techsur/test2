@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "bf264f57-8e27-4e3e-8af3-0cecfa332c71",
+    "text": "Persist me",
+    "completed": false,
+    "createdAt": "2026-05-01T23:20:48.523Z",
+    "updatedAt": "2026-05-01T23:20:48.523Z"
+  }
+]
