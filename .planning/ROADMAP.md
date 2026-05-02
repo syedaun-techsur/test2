@@ -60,7 +60,10 @@
 4. User can click a delete button to remove tasks
 5. Frontend communicates correctly with backend API endpoints
 
-**Plans:** TBD
+**Plans:** 1 plan
+
+**Plan list:**
+- [x] 02-01-PLAN.md — React frontend with create, complete, and delete functionality
 
 ---
 
@@ -69,7 +72,7 @@
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Backend API | 1/1 | Ready to execute | - |
-| 2. Frontend UI | 0/1 | Not started | - |
+| 2. Frontend UI | 1/1 | Ready to execute | - |
 
 ---
 
